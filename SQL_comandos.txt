@@ -1,0 +1,4 @@
+﻿SELECT Name FROM Funcionarios WHERE idade >20
+SELECT Name FROM Funcionarios WHERE AnodeExperiencia < 4
+SELECT COUNT(*) FROM Funcionarios WHERE AnodeExperiencia < 4
+SELECT COUNT(*) FROM Funcionarios WHERE idade >20
